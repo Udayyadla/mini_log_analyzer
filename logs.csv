@@ -1,0 +1,6 @@
+timestamp,user,status,path
+2026-05-01 10:00:00,alice,200,/login
+2026-05-01 10:01:00,bob,500,/payment
+2026-05-01 10:02:00,alice,404,/profile
+bad,row
+2026-05-01 10:03:00,charlie,200,/home
